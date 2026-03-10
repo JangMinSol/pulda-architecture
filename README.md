@@ -60,4 +60,4 @@ Full Stack Developer (Flutter / Python)
 
 ## Resume
 
-📄 [View Resume](./JangMinSol_FullStackDeveloper_Resume.pdf)
+📄 [View Resume](./resume.pdf)
