@@ -55,3 +55,9 @@ Pulda 서비스는 다음과 같은 구조로 구성되어 있습니다.
 ## Author
 Jang Min Sol  
 Full Stack Developer (Flutter / Python)
+
+---
+
+## Resume
+
+📄 [View Resume](./JangMinSol_FullStackDeveloper_Resume.pdf)
