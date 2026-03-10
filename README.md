@@ -49,3 +49,9 @@ Pulda 서비스는 다음과 같은 구조로 구성되어 있습니다.
 - Flutter 기반 모바일 UI 개발
 - Flask 기반 REST API 설계 및 개발
 - PostgreSQL 데이터 모델 설계
+  
+---
+
+## Author
+Jang Min Sol  
+Full Stack Developer (Flutter / Python)
